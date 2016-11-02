@@ -1,0 +1,73 @@
+/* Here goes your CSS */
+body {
+  background-image: url("images/background-01.jpg");
+  font-family: sans-serif;
+  color: #2B395D;
+  font-size: 15px;
+  line-height: 17px;
+}
+
+h1, h2, h3 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: ultra-light;
+}
+
+h1, h2 {
+font-size: 23px;
+}
+
+h3 {
+  font-size: 15px;
+  padding-left: 24px;
+}
+
+h1 { color: #D90368; }
+
+a {
+  text-decoration: none;
+}
+
+p {
+  padding-left: 24px;
+}
+
+.card {
+  background-color: #F3F6FF;
+  padding: 20px;
+  margin: 15px auto;
+  width: 600px;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 3px 3px 6px rgba(0,0,0,0.5);
+}
+
+.image-circle {
+  border-radius: 50%;
+  width: 160px;
+}
+
+.inline-list > li {
+  display: inline;
+  padding: 20px;
+  list-style: none;
+}
+
+.image-movie {
+  width: 200px;
+  margin-top: 15px;
+}
+
+.image-sport{
+  width: 200px;
+  margin-top: 15px;
+  margin-bottom: 3px;
+}
+
+.fa{
+  font-size: 30px;
+}
+
+#list-small-left-padding{
+  padding-left: 24px;
+}
+/* Here goes your CSS */
